@@ -1,0 +1,18 @@
+a {
+    font-family: palatino !important;
+}
+
+.btn:hover {
+    background-color: pink;
+}
+
+.btn:after {
+    background-color: pink;
+}
+
+.accordion {
+    --bs-accordion-btn-bg: pink;
+    --bs-accordion-active-bg: rgb(221, 127, 142);
+    --bs-accordion-active-color: black ;
+}
+
